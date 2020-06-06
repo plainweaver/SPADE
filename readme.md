@@ -1,7 +1,5 @@
-### Spade system
-#### Transforms all the program into single shape.
-
-Each of system can interconnect each other.
+### SPADE system
+Transform all into a shape. Each of spade can interconnect with each other.
 
 #### Shard System
  - Transport and Protocol (inspired from libp2p)
