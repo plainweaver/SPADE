@@ -2,10 +2,12 @@
 Transform all into a shape. Each of spade can interconnect with each other.
 
 #### Shard System
- - Transport and Protocol (inspired from libp2p)
-   
+ - Transport and Protocol
+ - Have to reference some from libp2p
+
 #### Particle System
- - Memory handling as L1 ~ L4 cache in cpu. Types of RAM or CAM to be considered.
+ - Multiple memory & storage handling strategies.
+ - In exmaple, L1 ~ L4 cache in cpu can be the one. Types of RAM or CAM should be considered.
 
 #### Action System
  - Code analyzer
@@ -14,10 +16,10 @@ Transform all into a shape. Each of spade can interconnect with each other.
 
 #### Domain System
  - Categorizer
- - Recognizer
+ - Pattern Recognition
 
 #### Event System
  - Scheduler
  - Combiner structure
 
-Still in development, not working yet.
+Still in development. It is not working yet.
