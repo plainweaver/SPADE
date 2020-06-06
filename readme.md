@@ -3,13 +3,13 @@
 
 Each of system can interconnect each other.
 
-##### Shard System
+#### Shard System
  - Transport and Protocol (inspired from libp2p)
    
-##### Particle System
+#### Particle System
  - Memory handling as L1 ~ L4 cache in cpu. Types of RAM or CAM to be considered.
 
-##### Action System
+#### Action System
  - Code analyzer
  - Compiler algorithms
  - JIT
