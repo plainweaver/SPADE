@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/utils/level-domain/ASC.js"],"names":["MockSystem","call","put"],"mappings":";;;;;;;AAAe,MAAMA,UAAN,CAAiB;AAC9BC,EAAAA,IAAI,GAAG,CAEN;;AAEDC,EAAAA,GAAG,GAAG,CAEL;;AAP6B","sourcesContent":["export default class MockSystem {\n  call() {\n\n  }\n\n  put() {\n\n  }\n}\n"],"file":"ASC.js"}

@@ -14,7 +14,7 @@ export default class ShardSystem extends classes (EventEmitter, Transport, Proto
     this.transports = [];
     this.protocols = [];
 
-    this.mappings = {};
+    this.representations = {};
 
     process.nextTick(() => {
       this.particle = self.particle;
@@ -29,16 +29,23 @@ export default class ShardSystem extends classes (EventEmitter, Transport, Proto
    * @param name - name of determiner
    * @param func - callable function
    */
-  createMapping(name, func) {
-    this.mappings[name] = func;
+  represent(abstractId) {
+    this.representations[name] = func;
   }
 
-  removeMapping(name) {
+  s(name) {
     delete this.mapping[name];
   }
 
   // check if emitted data is valuable enough to do something with connected shards.
-  process(eventName, data) {
-    // todo
+  process(data, info) {
+    //
+    if () {}
+    this.particle(data);
+  }
+
+  // name
+  async call(name) {
+
   }
 }

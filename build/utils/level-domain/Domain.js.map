@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/utils/level-domain/Domain.js"],"names":["Domain","discriminator","undefined"],"mappings":";;;;;;;AAAe,SAASA,MAAT,GAAkB;AAC/B,OAAKC,aAAL,GAAqBC,SAArB;AACD","sourcesContent":["export default function Domain() {\n  this.discriminator = undefined;\n}"],"file":"Domain.js"}

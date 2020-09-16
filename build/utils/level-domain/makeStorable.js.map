@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/utils/level-domain/makeStorable.js"],"names":["makeStorable"],"mappings":";;;;;;;AAAe,SAASA,YAAT,GAAwB,CAEtC","sourcesContent":["export default function makeStorable() {\n\n}"],"file":"makeStorable.js"}

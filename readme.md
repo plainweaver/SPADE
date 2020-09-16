@@ -1,5 +1,12 @@
-### SPADE system
-Transform all into a shape. Each of spade can interconnect with each other.
+##### Purpose: to discuss fundamental structure which underlies codes.
+##### Please leave your thoughts. Feel free to open issues with any kind of arguments, in any form.
+
+### Characteristics
+* Multiple individual systems can be made from one script.
+* Each of systems can make another system.
+* Multiple systems can be combined and newly made into one system.
+
+### Structure 
 
 #### Shard System
  - Transport and Protocol
@@ -21,5 +28,3 @@ Transform all into a shape. Each of spade can interconnect with each other.
 #### Event System
  - Scheduler
  - Combiner structure
-
-Still in development. It is not working yet.
